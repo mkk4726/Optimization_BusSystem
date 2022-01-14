@@ -1,2 +1,2 @@
-# Optimization_BusSystem
- Optimization project at Simulation Lecture.
+# 부산대학교 순환버스 시스템버최적화 프로젝트
+ 부산대학교 산업공학과 시뮬레이션 수업에서 진행한 부산대학교 순환버스 최적화 프로젝트입니다. Plant Simulation 프로그램을 이용해서 system을 설정한 후 가설들을 돌려보면서 결과를 도출했고, 이를 비교하면서 최적의 결과를 얻어나가는 과정을 진행했습니다. 
